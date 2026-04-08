@@ -42,7 +42,7 @@ It processes raw customer reviews, cleans the data, analyzes sentiment, and visu
 data.duplicated().sum()
 data = data.drop_duplicates()
 data.isnull().sum()
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b1f133f8-eb9b-4c74-915e-f8242c5f20e5" />
+
 
 
 ---
