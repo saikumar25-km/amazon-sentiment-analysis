@@ -34,12 +34,6 @@ It processes raw customer reviews, cleans the data, analyzes sentiment, and visu
 ![Project Screenshot2](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(4).png?raw=true)
 
 
-
-
-
-
-
-
 ### 1️ Data Cleaning
 
 * Removed duplicates
@@ -50,6 +44,10 @@ data.duplicated().sum()
 data = data.drop_duplicates()
 data.isnull().sum()
 ![duplicate](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(5).png?raw=true)
+
+
+
+
 
 
 
