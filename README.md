@@ -31,7 +31,6 @@ It processes raw customer reviews, cleans the data, analyzes sentiment, and visu
 
 ## Project Output
 
-## Project Output
 
 ![Project](https://raw.githubusercontent.com/saikumar25-km/amazon-sentiment-analysis/main/Screenshot%20(5).png)
 
@@ -66,6 +65,8 @@ data.review_text = data.review_text.str.lower()
 ##stopword removing
 ![stopword](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(14).png?raw=true)
 
+
+
 ### 3️⃣ Sentiment Analysis
 
 Using **TextBlob**
@@ -75,7 +76,7 @@ from textblob import TextBlob
 data['sentiment_score'] = data['review_text'].apply(lambda x: TextBlob(x).sentiment.polarity)
 ```
 
----
+![texb](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(15).png?raw=true)
 
 ### 4️⃣ Sentiment Classification
 
