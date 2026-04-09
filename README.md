@@ -18,7 +18,7 @@ It processes raw customer reviews, cleans the data, analyzes sentiment, and visu
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 * Total Records: 15,000
 * Columns:
@@ -34,6 +34,8 @@ It processes raw customer reviews, cleans the data, analyzes sentiment, and visu
 
 ![Project](https://raw.githubusercontent.com/saikumar25-km/amazon-sentiment-analysis/main/Screenshot%20(5).png)
 
+
+
 ### 1️⃣ Data Cleaning
 
 * Removed duplicates
@@ -45,7 +47,7 @@ data = data.drop_duplicates()
 data.isnull().sum()
 
 ## Project Output
-
+![clean]https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(5).png?raw=true)
 
 
 
