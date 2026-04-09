@@ -117,3 +117,41 @@ overview of positive ,negative and netural
 
 
 * Real-time sentiment analysis
+
+
+
+
+
+##positive overall
+![image](
+
+
+
+
+
+#negative overall
+
+![nagive](
+
+
+
+
+
+#ipad overall view
+![ipa](
+
+
+
+
+
+
+#sumsag overall view
+![samsung](
+
+
+
+
+
+#oneplus overall view
+
+![onepluse](
