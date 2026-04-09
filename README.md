@@ -108,7 +108,7 @@ data['sentiment'] = data['sentiment_score'].apply(get_sentiment)
 
 ### 🔹 Product-wise Sentiment
 
-![Product Sentiment](images/product_sentiment.png)
+![image alt](C:\Users\saipa\OneDrive\Pictures\Screenshots)
 
 ---
 
@@ -136,13 +136,13 @@ data['sentiment'] = data['sentiment_score'].apply(get_sentiment)
 
 ---
 
-### 🔹 Final Output
+###  Final Output
 
 ![Final Output](images/final_output.png)
 
 ---
 
-## 📈 Insights
+##  Insights
 
 * Most reviews are **Positive**
 * Apple iPad has highest reviews
@@ -155,46 +155,3 @@ data['sentiment'] = data['sentiment_score'].apply(get_sentiment)
 * Use advanced models (BERT, Transformers)
 * Deploy as Web App
 * Real-time sentiment analysis
-
----
-
-## 👨‍💻 Author
-
-**Karthikeya Gundu**
-
----
-
-# ⚠️ IMPORTANT (VERY IMPORTANT STEP)
-
-You MUST do this:
-
-1. Create folder:
-
-```
-images/
-```
-
-2. Rename your screenshots like:
-
-```
-powerbi_dashboard.png
-product_sentiment.png
-data_cleaning.png
-text_processing.png
-stopwords.png
-sentiment_score.png
-final_output.png
-```
-
-3. Upload them to GitHub repo inside `images/`
-
----
-
-## 💥 Want Next Level?
-
-I can:
-✅ Convert this into **LinkedIn post + GitHub repo description**
-✅ Create **project PPT (with diagrams)**
-✅ Make **resume points from this project**
-
-Just tell me 👍
