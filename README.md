@@ -123,7 +123,7 @@ overview of positive ,negative and netural
 
 
 ##positive overall
-![image](
+![image](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(27).png?raw=true)
 
 
 
