@@ -29,7 +29,7 @@ It processes raw customer reviews, cleans the data, analyzes sentiment, and visu
   * `rating`
   * `review_date`
 
----
+![image alt](Screenshot (4).png)
 
 ##  Workflow
 
