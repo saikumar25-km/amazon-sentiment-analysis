@@ -51,11 +51,16 @@ data.isnull().sum()
 
 
 
+
+
 ### 2️⃣ Text Preprocessing
 
 * Lowercase conversion
 * Removed punctuation
 * Removed stopwords
+![process](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(11).png?raw=true)
+
+
 
 ```python
 data.review_text = data.review_text.str.lower()
