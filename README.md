@@ -146,7 +146,7 @@ overview of positive ,negative and netural
 
 
 #sumsag overall view
-![samsung](
+![samsung](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(35).png?raw=true)
 
 
 
