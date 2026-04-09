@@ -31,8 +31,7 @@ It processes raw customer reviews, cleans the data, analyzes sentiment, and visu
 
 ## Project Output
 
-
-![Project](https://raw.githubusercontent.com/saikumar25-km/amazon-sentiment-analysis/main/Screenshot%20(5).png)
+![Project Screenshot2](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(4).png?raw=true)
 
 
 
@@ -46,9 +45,10 @@ It processes raw customer reviews, cleans the data, analyzes sentiment, and visu
 data.duplicated().sum()
 data = data.drop_duplicates()
 data.isnull().sum()
+![Project](https://raw.githubusercontent.com/saikumar25-km/amazon-sentiment-analysis/main/Screenshot%20(5).png)
 
-## Project Output
-![Project Screenshot2]([https://raw.githubusercontent.com/saikumar25-km/amazon-sentiment-analysis/main/Screenshot%20(5).png]
+
+
 ### 2️⃣ Text Preprocessing
 
 * Lowercase conversion
