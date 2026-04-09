@@ -115,13 +115,13 @@ data['sentiment'] = data['sentiment_score'].apply(get_sentiment)
 
 ### 🔹 Product-wise Sentiment
 
-![image alt](C:\Users\saipa\OneDrive\Pictures\Screenshots)
+![image alt](]([https://raw.githubusercontent.com/saikumar25-km/amazon-sentiment-analysis/main/Screenshot%20(5).png])
 
 ---
 
 ### 🔹 Data Cleaning (Jupyter)
 
-![Data Cleaning](images/data_cleaning.png)
+![Data Cleaning](.png)
 
 ---
 
