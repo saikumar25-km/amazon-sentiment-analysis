@@ -109,12 +109,11 @@ data['sentiment'] = data['sentiment_score'].apply(get_sentiment)
 
 ---
 
+
 ### 🔹 Power BI Dashboard
 
-![Sentiment Comparison](<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/4dc53c00-e0a3-4a0b-8ed5-d758fad0a974" />
-)
-
----
+overview of positive ,negative and netural
+![over_all](
 
 ### 🔹 Product-wise Sentiment
 
