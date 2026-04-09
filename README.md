@@ -131,7 +131,7 @@ overview of positive ,negative and netural
 
 #negative overall
 
-![nagive](
+![nagive](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(28).png?raw=true)
 
 
 
