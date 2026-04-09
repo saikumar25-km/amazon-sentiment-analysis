@@ -50,7 +50,7 @@ data.isnull().sum()
 * Lowercase conversion
 * Removed punctuation
 * Removed stopwords
-![process](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(11).png?raw=true)
+![proces1s](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(11).png?raw=true)
 
 
 
