@@ -113,54 +113,7 @@ data['sentiment'] = data['sentiment_score'].apply(get_sentiment)
 ### 🔹 Power BI Dashboard
 
 overview of positive ,negative and netural
-![over_all](
+![over_all](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(47).png?raw=true)
 
-### 🔹 Product-wise Sentiment
 
-![image alt](]([https://raw.githubusercontent.com/saikumar25-km/amazon-sentiment-analysis/main/Screenshot%20(5).png])
-
----
-
-### 🔹 Data Cleaning (Jupyter)
-
-![Data Cleaning](.png)
-
----
-
-### 🔹 Text Preprocessing
-
-![Text Processing](images/text_processing.png)
-
----
-
-### 🔹 Stopwords Removal
-
-![Stopwords](images/stopwords.png)
-
----
-
-### 🔹 Sentiment Score Calculation
-
-![Sentiment Score](images/sentiment_score.png)
-
----
-
-###  Final Output
-
-![Final Output](images/final_output.png)
-
----
-
-##  Insights
-
-* Most reviews are **Positive**
-* Apple iPad has highest reviews
-* Negative reviews highlight product issues
-
----
-
-## 🔮 Future Improvements
-
-* Use advanced models (BERT, Transformers)
-* Deploy as Web App
 * Real-time sentiment analysis
