@@ -44,8 +44,7 @@ data.duplicated().sum()
 data = data.drop_duplicates()
 data.isnull().sum()
 
-![Project Screenshot](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(5).png?raw=true)
-
+![Project Screenshot](https://raw.githubusercontent.com/saikumar25-km/amazon-sentiment-analysis/main/Screenshot%20(5).png)
 ---
 
 ### 2️⃣ Text Preprocessing
