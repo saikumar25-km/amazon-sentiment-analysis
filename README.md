@@ -43,14 +43,6 @@ It processes raw customer reviews, cleans the data, analyzes sentiment, and visu
 data.duplicated().sum()
 data = data.drop_duplicates()
 data.isnull().sum()
-![duplicate](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(5).png?raw=true)
-
-
-
-
-
-
-
 
 
 ### 2️⃣ Text Preprocessing
