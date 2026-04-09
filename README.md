@@ -138,7 +138,7 @@ overview of positive ,negative and netural
 
 
 #ipad overall view
-![ipa](
+![ipa](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(40).png?raw=true)
 
 
 
