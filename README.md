@@ -63,7 +63,8 @@ data.isnull().sum()
 data.review_text = data.review_text.str.lower()
 ```
 
----
+##stopword removing
+![stopword](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(14).png?raw=true)
 
 ### 3️⃣ Sentiment Analysis
 
