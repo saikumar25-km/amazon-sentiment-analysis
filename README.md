@@ -154,4 +154,4 @@ overview of positive ,negative and netural
 
 #oneplus overall view
 
-![onepluse](
+![onepluse](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(36).png?raw=true)
