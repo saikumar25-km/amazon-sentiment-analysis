@@ -52,8 +52,7 @@ data.isnull().sum()
 
 
 
-![Project Screenshot2](https://raw.githubusercontent.com/saikumar25-km/amazon-sentiment-analysis/main/Screenshot%20(5).png)
-
+![Project Screenshot2]([https://raw.githubusercontent.com/saikumar25-km/amazon-sentiment-analysis/main/Screenshot%20(5).png]
 ### 2️⃣ Text Preprocessing
 
 * Lowercase conversion
