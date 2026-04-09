@@ -78,6 +78,8 @@ data['sentiment_score'] = data['review_text'].apply(lambda x: TextBlob(x).sentim
 
 ![texb](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(15).png?raw=true)
 
+
+
 ### 4️⃣ Sentiment Classification
 
 ```python
@@ -91,7 +93,7 @@ def get_sentiment(score):
 
 data['sentiment'] = data['sentiment_score'].apply(get_sentiment)
 ```
-
+![catagory](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(16).png?raw=true)
 ---
 
 ## 📊 Results
