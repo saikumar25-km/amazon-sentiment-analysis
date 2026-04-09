@@ -29,8 +29,9 @@ It processes raw customer reviews, cleans the data, analyzes sentiment, and visu
   * `rating`
   * `review_date`
 
-![imagealt]((https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(4).png?raw=true)
+## Project Output
 
+![Project Screenshot](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(4).png?raw=true)
 ##  Workflow
 
 ### 1️⃣ Data Cleaning
